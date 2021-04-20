@@ -4,6 +4,17 @@
 .required {
   color: red;
 }
+#Species-Guess {
+  width: 21%;
+}
+
+#Description {
+  width: 62%;
+}
+#Notes {
+  width: 65%;
+  height: 75px;
+}
 
 .colorLicence {
   color: blue;
